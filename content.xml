@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026050715494396KIUH</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507154943NA51BW</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Eco-Reporteros Digitales: El Desafío del Cambio Climático</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Javier Cruces Fernández</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje para 5º de Educación Primaria basada en ABP sobre clima y medio ambiente.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778161110604</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-movj7pz8-y4iqa8gn4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movj7pz8-y4iqa8gn4</odePageId>
+      <odeBlockId>block-1778010488872-6dh1m6vgi</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movj7pz8-y4iqa8gn4</odePageId>
+          <odeBlockId>block-1778010488872-6dh1m6vgi</odeBlockId>
+          <odeIdeviceId>idevice-1778010488868-8xidl0j6j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>1. Datos Identificativos</strong></p>
+<ul>
+<li style="text-align: justify;"><strong>Título descriptivo:</strong> "Eco-Reporteros Digitales: El Desafío del Cambio Climático".</li>
+<li style="text-align: justify;"><strong>Centro de interés o temática:</strong> El clima, los fenómenos meteorológicos y la concienciación sobre el medio ambiente.</li>
+<li style="text-align: justify;"><strong>Nivel al que va dirigido:</strong> 5º de Educación Primaria.</li>
+<li style="text-align: justify;"><strong>Temporalización aproximada:</strong> 8 sesiones de 60 minutos (distribuidas en 3 semanas).</li>
+<li style="text-align: justify;"><strong>Materia o materias implicadas:</strong> Conocimiento del Medio Natural, Social y Cultural (pudiendo integrarse con Lengua Castellana para la expresión oral y escrita).</li>
+<li style="text-align: justify;"><strong>Idioma:</strong> Castellano.</li>
+</ul>
+<p style="text-align: justify;"><strong>2. Descripción general del proyecto</strong></p>
+<p style="text-align: justify;">Se pretende que el alumnado trabaje de forma <strong>cooperativa</strong> bajo una metodología de <strong>Aprendizaje Basado en Proyectos (ABP)</strong>. El objetivo final es que cada grupo se convierta en un equipo de investigación que analice un clima específico y los efectos del cambio climático en él, para posteriormente crear una guía digital interactiva en formato de presentación.</p>
+<p style="text-align: justify;">A diferencia de intentos anteriores, el alumnado no solo buscará información, sino que aprenderá a:</p>
+<ul>
+<li style="text-align: justify;">Utilizar herramientas de búsqueda de contenidos para filtrar fuentes fiables.</li>
+<li style="text-align: justify;">Gestionar su propio aprendizaje mediante roles cooperativos bien definidos (coordinador, secretario, portavoz y responsable TIC).</li>
+<li style="text-align: justify;">Publicar sus resultados respetando los derechos de autor y la protección de datos personales.</li>
+</ul>
+<p style="text-align: justify;"><strong>3. Justificación</strong></p>
+<p style="text-align: justify;">Esta propuesta no es una simple repetición, sino una evolución pedagógica basada en el análisis reflexivo de la práctica anterior:</p>
+<ul>
+<li style="text-align: justify;">Gestión de la incertidumbre técnica: en la rutina previa se detectó frustración por la inestabilidad de la red y fallos en dispositivos. Para solucionar esto, el proyecto ahora incluye recursos alternativos offline y protocolos básicos de resolución de problemas técnicos que el alumnado conocerá de antemano.</li>
+<li style="text-align: justify;">Desarrollo de la competencia digital: La experiencia anterior reveló que el alumnado tenía dificultades para discriminar información y sufría distracciones. Por ello, se ha decidido integrar el desarrollo de la competencia digital no solo como una herramienta, sino como un contenido de aprendizaje previo. Se dedicarán sesiones específicas a la búsqueda eficaz y al uso ético de la información antes de comenzar el grueso de la investigación.</li>
+<li style="text-align: justify;">Mejora de la implicación cooperativa: Tras observar una "desigual implicación" en los grupos en la sesión anterior, se han rediseñado los instrumentos de evaluación formativa. Se incluirán rúbricas de coevaluación y un seguimiento más estrecho de los roles para asegurar que todos los miembros contribuyan equitativamente al producto final.</li>
+<li style="text-align: justify;">Adaptación DUA y contextualización: Basándome en la sensación "agridulce" de la práctica previa , he adaptado esta secuencia para que el eXeLearning resultante sea atractivo y motivador, ofreciendo diversos canales de información (vídeo, texto, imagen) para atender a la diversidad del aula según los principios DUA.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778010488868-8xidl0j6j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>1. Datos Identificativos</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Título descriptivo:</strong> \"Eco-Reporteros Digitales: El Desafío del Cambio Climático\".</li>\n<li style=\"text-align: justify;\"><strong>Centro de interés o temática:</strong> El clima, los fenómenos meteorológicos y la concienciación sobre el medio ambiente.</li>\n<li style=\"text-align: justify;\"><strong>Nivel al que va dirigido:</strong> 5º de Educación Primaria.</li>\n<li style=\"text-align: justify;\"><strong>Temporalización aproximada:</strong> 8 sesiones de 60 minutos (distribuidas en 3 semanas).</li>\n<li style=\"text-align: justify;\"><strong>Materia o materias implicadas:</strong> Conocimiento del Medio Natural, Social y Cultural (pudiendo integrarse con Lengua Castellana para la expresión oral y escrita).</li>\n<li style=\"text-align: justify;\"><strong>Idioma:</strong> Castellano.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>2. Descripción general del proyecto</strong></p>\n<p style=\"text-align: justify;\">Se pretende que el alumnado trabaje de forma <strong>cooperativa</strong> bajo una metodología de <strong>Aprendizaje Basado en Proyectos (ABP)</strong>. El objetivo final es que cada grupo se convierta en un equipo de investigación que analice un clima específico y los efectos del cambio climático en él, para posteriormente crear una guía digital interactiva en formato de presentación.</p>\n<p style=\"text-align: justify;\">A diferencia de intentos anteriores, el alumnado no solo buscará información, sino que aprenderá a:</p>\n<ul>\n<li style=\"text-align: justify;\">Utilizar herramientas de búsqueda de contenidos para filtrar fuentes fiables.</li>\n<li style=\"text-align: justify;\">Gestionar su propio aprendizaje mediante roles cooperativos bien definidos (coordinador, secretario, portavoz y responsable TIC).</li>\n<li style=\"text-align: justify;\">Publicar sus resultados respetando los derechos de autor y la protección de datos personales.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>3. Justificación</strong></p>\n<p style=\"text-align: justify;\">Esta propuesta no es una simple repetición, sino una evolución pedagógica basada en el análisis reflexivo de la práctica anterior:</p>\n<ul>\n<li style=\"text-align: justify;\">Gestión de la incertidumbre técnica: en la rutina previa se detectó frustración por la inestabilidad de la red y fallos en dispositivos. Para solucionar esto, el proyecto ahora incluye recursos alternativos offline y protocolos básicos de resolución de problemas técnicos que el alumnado conocerá de antemano.</li>\n<li style=\"text-align: justify;\">Desarrollo de la competencia digital: La experiencia anterior reveló que el alumnado tenía dificultades para discriminar información y sufría distracciones. Por ello, se ha decidido integrar el desarrollo de la competencia digital no solo como una herramienta, sino como un contenido de aprendizaje previo. Se dedicarán sesiones específicas a la búsqueda eficaz y al uso ético de la información antes de comenzar el grueso de la investigación.</li>\n<li style=\"text-align: justify;\">Mejora de la implicación cooperativa: Tras observar una \"desigual implicación\" en los grupos en la sesión anterior, se han rediseñado los instrumentos de evaluación formativa. Se incluirán rúbricas de coevaluación y un seguimiento más estrecho de los roles para asegurar que todos los miembros contribuyan equitativamente al producto final.</li>\n<li style=\"text-align: justify;\">Adaptación DUA y contextualización: Basándome en la sensación \"agridulce\" de la práctica previa , he adaptado esta secuencia para que el eXeLearning resultante sea atractivo y motivador, ofreciendo diversos canales de información (vídeo, texto, imagen) para atender a la diversidad del aula según los principios DUA.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movj7pz9-bgf978zn7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movj7pz9-bgf978zn7</odePageId>
+      <odeBlockId>block-1778011288797-ju97p8abr</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movj7pz9-bgf978zn7</odePageId>
+          <odeBlockId>block-1778011288797-ju97p8abr</odeBlockId>
+          <odeIdeviceId>idevice-1778011288788-1ho4i4mbe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table style="width: 100%; height: 3391px;" border="1">
+<tbody>
+<tr style="height: 105px;">
+<td style="width: 19.967566%; text-align: center; height: 105px;"><strong>TAREA</strong></td>
+<td style="width: 19.967566%; text-align: center; height: 105px;"> <strong>CRITERIO DE EVALUACIÓN</strong><br /></td>
+<td style="width: 19.967566%; text-align: center; height: 105px;"><strong>AGRUPAMIENTO</strong></td>
+<td style="width: 19.967566%; text-align: center; height: 105px;"><strong>TIEMPO APROXIMADO</strong></td>
+<td style="width: 19.967566%; text-align: center; height: 105px;"><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></td>
+</tr>
+<tr style="height: 745px;">
+<td style="width: 19.967566%; text-align: center; height: 745px;"><strong>Sesión 1</strong>: El Carné de Eco-Reportero Ético. Taller sobre seguridad, licencias CC y netiqueta basado en nuestra guía digital.</td>
+<td style="width: 19.967566%; text-align: center; height: 745px;">1.1.a. Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura y adecuada, buscando información, comunicándose y trabajando de forma individual y en equipo, comenzando a realizar actividades en red, creando contenidos digitales sencillos, 
+<p>interpretando y organizando la información y aumentando la productividad y eficiencia en el propio trabajo.</p>
+</td>
+<td style="width: 19.967566%; text-align: center; height: 745px;">
+<p>Individual y Gran Grupo</p>
+<p><br /></p>
+<p></p>
+</td>
+<td style="width: 19.967566%; text-align: center; height: 745px;">60 min</td>
+<td style="width: 19.967566%; text-align: center; height: 745px;">Guía PDF interactiva / Genially (Docente)</td>
+</tr>
+<tr style="height: 609px;">
+<td style="width: 19.967566%; text-align: center; height: 609px;"><strong>Sesión 2</strong>: Buscadores al rescate. Práctica de búsqueda filtrada de información sobre el cambio climático en fuentes oficiales (AEMET, NASA).</td>
+<td style="width: 19.967566%; text-align: center; height: 609px;">2.2.a. Buscar, seleccionar y comenzar a utilizar mecanismos para contrastar información, de diferentes fuentes seguras y fiables, iniciándose en el uso de los criterios de fiabilidad de fuentes, adquiriendo léxico científico básico, utilizándola en investigaciones relacionadas con el medio natural, social y cultural.</td>
+<td style="width: 19.967566%; text-align: center; height: 609px;">Parejas</td>
+<td style="width: 19.967566%; text-align: center; height: 609px;">60 min</td>
+<td style="width: 19.967566%; text-align: center; height: 609px;">Buscadores (Google Académico / Kiddle)</td>
+</tr>
+<tr style="height: 585px;">
+<td style="width: 19.967566%; text-align: center; height: 585px;"><strong>Sesión 3</strong>: El Muro de Evidencias. Selección y curación de contenidos (textos, vídeos, imágenes CC) sobre el clima asignado.</td>
+<td style="width: 19.967566%; text-align: center; height: 585px;">2.4.a. Proponer posibles respuestas a las preguntas planteadas, iniciándose en el análisis e interpretación de la información y los resultados obtenidos, comenzando a tomar conciencia sobre el valor de la coherencia de las posibles soluciones, comparándolas con las predicciones realizadas.</td>
+<td style="width: 19.967566%; text-align: center; height: 585px;">Grupos Cooperativos</td>
+<td style="width: 19.967566%; text-align: center; height: 585px;">60 min</td>
+<td style="width: 19.967566%; text-align: center; height: 585px;">Padlet</td>
+</tr>
+<tr style="height: 369px;">
+<td style="width: 19.967566%; text-align: center; height: 369px;"><strong>Sesión 4 y 5</strong>: Redacción del Reportaje. Elaboración de los borradores y guiones para la guía interactiva, asignando roles.</td>
+<td style="width: 19.967566%; text-align: center; height: 369px;">6.1.a. Identificar estilos de vida sostenible y consecuentes con el respeto, los cuidados y la protección de las personas y del planeta, a partir del análisis crítico de la intervención humana en el entorno.</td>
+<td style="width: 19.967566%; text-align: center; height: 369px;">Grupos Cooperativos</td>
+<td style="width: 19.967566%; text-align: center; height: 369px;">120 min (2 sesiones)</td>
+<td style="width: 19.967566%; text-align: center; height: 369px;">Procesador de textos (Google Docs/Word)</td>
+</tr>
+<tr style="height: 513px;">
+<td style="width: 19.967566%; text-align: center; height: 513px;"><strong>Sesión 6 y 7</strong>: Diseño de la Guía Digital. Creación del producto final interactivo integrando elementos multimedia.</td>
+<td style="width: 19.967566%; text-align: center; height: 513px;">3.3.a. Diseñar un producto final que dé solución a un problema de diseño, mediante estrategias cooperativas, como prototipos o soluciones digitales, utilizando de forma segura las herramientas, dispositivos, técnicas y materiales adecuados.</td>
+<td style="width: 19.967566%; text-align: center; height: 513px;">Grupos Cooperativos</td>
+<td style="width: 19.967566%; text-align: center; height: 513px;">120 min (2 sesiones)</td>
+<td style="width: 19.967566%; text-align: center; height: 513px;">Canva para Educación</td>
+</tr>
+<tr style="height: 465px;">
+<td style="width: 19.967566%; text-align: center; height: 465px;"><strong>Sesión 8</strong>: Gala de Eco-Reporteros. Presentación de las guías al resto de la clase y coevaluación del trabajo grupal.</td>
+<td style="width: 19.967566%; text-align: center; height: 465px;">3.4.a. Presentar y comunicar el resultado de los proyectos de diseño, explicando los pasos seguidos, justificando por qué ese prototipo o solución digital cumple con los requisitos del. proyecto y proponiendo posibles retos para futuros proyectos.</td>
+<td style="width: 19.967566%; text-align: center; height: 465px;">Gran Grupo</td>
+<td style="width: 19.967566%; text-align: center; height: 465px;">60 min</td>
+<td style="width: 19.967566%; text-align: center; height: 465px;">Pizarra Digital Interactiva (PDI)</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p style="text-align: justify;">Para resolver los problemas técnicos que pudieran surgir con el uso de tecnología en el aula tendremos en cuenta lo siguiente:</p>
+<ol>
+<li style="text-align: justify;"><strong>Planificación Anticipada (Prevención)</strong>: no basta con tener la herramienta; es fundamental contar con recursos alternativos offline (como plantillas en papel o archivos descargados previamente en los dispositivos) para que el ritmo de aprendizaje no se detenga si falla la conexión a internet.</li>
+<li style="text-align: justify;"><strong>Protocolos de Autonomía para el Alumnado</strong>: formar al alumnado en un "Protocolo de Resolución de Incidencias" básico. Esto incluye acciones sencillas que ellos mismos pueden realizar antes de acudir al docente (comprobar la carga de batería, verificar la conexión Wi-Fi, reiniciar la aplicación o pedir ayuda al "Responsable TIC" de su grupo cooperativo).</li>
+<li style="text-align: justify;"><strong>Gestión de la Incertidumbre Docente</strong>: el profesorado debe poseer un conocimiento consolidado de las herramientas (Nivel B2) para actuar como facilitador. Ante un fallo técnico general, el docente debe ser capaz de redirigir la actividad hacia la fase de debate o diseño analógico, integrando el error técnico como una oportunidad de aprendizaje sobre la resiliencia digital.<br /></li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778011288788-1ho4i4mbe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table style=\"width: 100%; height: 3391px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 105px;\">\n<td style=\"width: 19.967566%; text-align: center; height: 105px;\"><strong>TAREA</strong></td>\n<td style=\"width: 19.967566%; text-align: center; height: 105px;\"> <strong>CRITERIO DE EVALUACIÓN</strong><br /></td>\n<td style=\"width: 19.967566%; text-align: center; height: 105px;\"><strong>AGRUPAMIENTO</strong></td>\n<td style=\"width: 19.967566%; text-align: center; height: 105px;\"><strong>TIEMPO APROXIMADO</strong></td>\n<td style=\"width: 19.967566%; text-align: center; height: 105px;\"><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></td>\n</tr>\n<tr style=\"height: 745px;\">\n<td style=\"width: 19.967566%; text-align: center; height: 745px;\"><strong>Sesión 1</strong>: El Carné de Eco-Reportero Ético. Taller sobre seguridad, licencias CC y netiqueta basado en nuestra guía digital.</td>\n<td style=\"width: 19.967566%; text-align: center; height: 745px;\">1.1.a. Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura y adecuada, buscando información, comunicándose y trabajando de forma individual y en equipo, comenzando a realizar actividades en red, creando contenidos digitales sencillos, \n<p>interpretando y organizando la información y aumentando la productividad y eficiencia en el propio trabajo.</p>\n</td>\n<td style=\"width: 19.967566%; text-align: center; height: 745px;\">\n<p>Individual y Gran Grupo</p>\n<p><br /></p>\n<p></p>\n</td>\n<td style=\"width: 19.967566%; text-align: center; height: 745px;\">60 min</td>\n<td style=\"width: 19.967566%; text-align: center; height: 745px;\">Guía PDF interactiva / Genially (Docente)</td>\n</tr>\n<tr style=\"height: 609px;\">\n<td style=\"width: 19.967566%; text-align: center; height: 609px;\"><strong>Sesión 2</strong>: Buscadores al rescate. Práctica de búsqueda filtrada de información sobre el cambio climático en fuentes oficiales (AEMET, NASA).</td>\n<td style=\"width: 19.967566%; text-align: center; height: 609px;\">2.2.a. Buscar, seleccionar y comenzar a utilizar mecanismos para contrastar información, de diferentes fuentes seguras y fiables, iniciándose en el uso de los criterios de fiabilidad de fuentes, adquiriendo léxico científico básico, utilizándola en investigaciones relacionadas con el medio natural, social y cultural.</td>\n<td style=\"width: 19.967566%; text-align: center; height: 609px;\">Parejas</td>\n<td style=\"width: 19.967566%; text-align: center; height: 609px;\">60 min</td>\n<td style=\"width: 19.967566%; text-align: center; height: 609px;\">Buscadores (Google Académico / Kiddle)</td>\n</tr>\n<tr style=\"height: 585px;\">\n<td style=\"width: 19.967566%; text-align: center; height: 585px;\"><strong>Sesión 3</strong>: El Muro de Evidencias. Selección y curación de contenidos (textos, vídeos, imágenes CC) sobre el clima asignado.</td>\n<td style=\"width: 19.967566%; text-align: center; height: 585px;\">2.4.a. Proponer posibles respuestas a las preguntas planteadas, iniciándose en el análisis e interpretación de la información y los resultados obtenidos, comenzando a tomar conciencia sobre el valor de la coherencia de las posibles soluciones, comparándolas con las predicciones realizadas.</td>\n<td style=\"width: 19.967566%; text-align: center; height: 585px;\">Grupos Cooperativos</td>\n<td style=\"width: 19.967566%; text-align: center; height: 585px;\">60 min</td>\n<td style=\"width: 19.967566%; text-align: center; height: 585px;\">Padlet</td>\n</tr>\n<tr style=\"height: 369px;\">\n<td style=\"width: 19.967566%; text-align: center; height: 369px;\"><strong>Sesión 4 y 5</strong>: Redacción del Reportaje. Elaboración de los borradores y guiones para la guía interactiva, asignando roles.</td>\n<td style=\"width: 19.967566%; text-align: center; height: 369px;\">6.1.a. Identificar estilos de vida sostenible y consecuentes con el respeto, los cuidados y la protección de las personas y del planeta, a partir del análisis crítico de la intervención humana en el entorno.</td>\n<td style=\"width: 19.967566%; text-align: center; height: 369px;\">Grupos Cooperativos</td>\n<td style=\"width: 19.967566%; text-align: center; height: 369px;\">120 min (2 sesiones)</td>\n<td style=\"width: 19.967566%; text-align: center; height: 369px;\">Procesador de textos (Google Docs/Word)</td>\n</tr>\n<tr style=\"height: 513px;\">\n<td style=\"width: 19.967566%; text-align: center; height: 513px;\"><strong>Sesión 6 y 7</strong>: Diseño de la Guía Digital. Creación del producto final interactivo integrando elementos multimedia.</td>\n<td style=\"width: 19.967566%; text-align: center; height: 513px;\">3.3.a. Diseñar un producto final que dé solución a un problema de diseño, mediante estrategias cooperativas, como prototipos o soluciones digitales, utilizando de forma segura las herramientas, dispositivos, técnicas y materiales adecuados.</td>\n<td style=\"width: 19.967566%; text-align: center; height: 513px;\">Grupos Cooperativos</td>\n<td style=\"width: 19.967566%; text-align: center; height: 513px;\">120 min (2 sesiones)</td>\n<td style=\"width: 19.967566%; text-align: center; height: 513px;\">Canva para Educación</td>\n</tr>\n<tr style=\"height: 465px;\">\n<td style=\"width: 19.967566%; text-align: center; height: 465px;\"><strong>Sesión 8</strong>: Gala de Eco-Reporteros. Presentación de las guías al resto de la clase y coevaluación del trabajo grupal.</td>\n<td style=\"width: 19.967566%; text-align: center; height: 465px;\">3.4.a. Presentar y comunicar el resultado de los proyectos de diseño, explicando los pasos seguidos, justificando por qué ese prototipo o solución digital cumple con los requisitos del. proyecto y proponiendo posibles retos para futuros proyectos.</td>\n<td style=\"width: 19.967566%; text-align: center; height: 465px;\">Gran Grupo</td>\n<td style=\"width: 19.967566%; text-align: center; height: 465px;\">60 min</td>\n<td style=\"width: 19.967566%; text-align: center; height: 465px;\">Pizarra Digital Interactiva (PDI)</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p style=\"text-align: justify;\">Para resolver los problemas técnicos que pudieran surgir con el uso de tecnología en el aula tendremos en cuenta lo siguiente:</p>\n<ol>\n<li style=\"text-align: justify;\"><strong>Planificación Anticipada (Prevención)</strong>: no basta con tener la herramienta; es fundamental contar con recursos alternativos offline (como plantillas en papel o archivos descargados previamente en los dispositivos) para que el ritmo de aprendizaje no se detenga si falla la conexión a internet.</li>\n<li style=\"text-align: justify;\"><strong>Protocolos de Autonomía para el Alumnado</strong>: formar al alumnado en un \"Protocolo de Resolución de Incidencias\" básico. Esto incluye acciones sencillas que ellos mismos pueden realizar antes de acudir al docente (comprobar la carga de batería, verificar la conexión Wi-Fi, reiniciar la aplicación o pedir ayuda al \"Responsable TIC\" de su grupo cooperativo).</li>\n<li style=\"text-align: justify;\"><strong>Gestión de la Incertidumbre Docente</strong>: el profesorado debe poseer un conocimiento consolidado de las herramientas (Nivel B2) para actuar como facilitador. Ante un fallo técnico general, el docente debe ser capaz de redirigir la actividad hacia la fase de debate o diseño analógico, integrando el error técnico como una oportunidad de aprendizaje sobre la resiliencia digital.<br /></li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movj7pz9-0avineha1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad Digital</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad Digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad Digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movj7pz9-0avineha1</odePageId>
+      <odeBlockId>block-1778012471818-sd1n7bszm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movj7pz9-0avineha1</odePageId>
+          <odeBlockId>block-1778012471818-sd1n7bszm</odeBlockId>
+          <odeIdeviceId>idevice-1778012471812-8hdq0h8ga</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">A continuación presento una <strong>infografía </strong>que contiene indicaciones fundamentales sobre <strong>protección de datos personales y garantías de derechos digitales</strong> para el alumnado.</p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/Infografía protección de datos.png" title="Infografía protección de datos" width="528" height="1307" alt="Infografía protección de datos" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778012471812-8hdq0h8ga","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">A continuación presento una <strong>infografía </strong>que contiene indicaciones fundamentales sobre <strong>protección de datos personales y garantías de derechos digitales</strong> para el alumnado.</p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/Infografía protección de datos.png\" title=\"Infografía protección de datos\" width=\"528\" height=\"1307\" alt=\"Infografía protección de datos\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movj7pz9-xub5pehp9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Plan de Trabajo</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Plan de Trabajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Plan de Trabajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movj7pz9-xub5pehp9</odePageId>
+      <odeBlockId>block-1778012739542-79to58h8r</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movj7pz9-xub5pehp9</odePageId>
+          <odeBlockId>block-1778012739542-79to58h8r</odeBlockId>
+          <odeIdeviceId>idevice-1778012739541-4t9uli2pu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">A continuación observamos la línea temporal donde se observa la organización de las sesiones y actividades. </p>
+<p><img src="{{context_path}}/content/resources/Línea temporal.png" title="Línea temporal" width="1266" height="583" alt="Línea temporal" /></p>
+<p></p>
+<p>Adjunto enlace de Canva para su descarga en formato PDF si fuese necesario: <a href="https://canva.link/c5dgebqle8tktr9">https://canva.link/c5dgebqle8tktr9</a> </p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778012739541-4t9uli2pu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">A continuación observamos la línea temporal donde se observa la organización de las sesiones y actividades. </p>\n<p><img src=\"{{context_path}}/content/resources/Línea temporal.png\" title=\"Línea temporal\" width=\"1266\" height=\"583\" alt=\"Línea temporal\" /></p>\n<p></p>\n<p>Adjunto enlace de Canva para su descarga en formato PDF si fuese necesario: <a href=\"https://canva.link/c5dgebqle8tktr9\">https://canva.link/c5dgebqle8tktr9</a> </p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movj7pza-620j2gmou</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Investigación y recursos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Investigación y recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Investigación y recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Investigación y recursos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movj7pza-620j2gmou</odePageId>
+      <odeBlockId>block-1778013147345-3xgd9rzsl</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movj7pza-620j2gmou</odePageId>
+          <odeBlockId>block-1778013147345-3xgd9rzsl</odeBlockId>
+          <odeIdeviceId>idevice-1778013147341-vqj57s4v9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Como docente en nivel B2, presento dos propuestas de curación de contenidos diseñadas para mejorar la competencia digital de mi alumnado de 5º de Primaria y para colaborar con otros docentes en la gestión diaria del aula.</p>
+<p style="text-align: justify;"><strong>1. Curación para el alumnado (Producto Final)</strong>:</p>
+<p style="text-align: justify;">Herramienta: Padlet.</p>
+<p style="text-align: justify;">Objetivo: facilitar al alumnado de mi proyecto "Eco-Reporteros Digitales" una selección de fuentes fiables y tutoriales que eviten la distracción y mejoren su autonomía. He incluido recursos visuales y protocolos de resolución de problemas técnicos para reducir la frustración detectada en sesiones previas.</p>
+<p style="text-align: justify;">Enlace: <a href="https://padlet.com/javierlacala/muro-de-recursos-eco-reporteros-digitales-7ncdse55g4n9rnca">https://padlet.com/javierlacala/muro-de-recursos-eco-reporteros-digitales-7ncdse55g4n9rnca</a> </p>
+<p style="text-align: justify;"><strong>2. Curación para el profesorado (Gestión de aula):</strong></p>
+<p style="text-align: justify;">Herramienta: Symbaloo.</p>
+<p style="text-align: justify;">Objetivo: compartir las herramientas que utilizo en mi día a día para la gestión administrativa, la creación de recursos y la evaluación formativa. Busco ofrecer una selección organizada que ayude a otros compañeros a integrar la tecnología de forma coherente.</p>
+<p style="text-align: justify;">Enlace: <a href="https://www.symbaloo.com/shared/AAAABFNQHbUAA41_l11adw==">https://www.symbaloo.com/shared/AAAABFNQHbUAA41_l11adw==</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778013147341-vqj57s4v9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Como docente en nivel B2, presento dos propuestas de curación de contenidos diseñadas para mejorar la competencia digital de mi alumnado de 5º de Primaria y para colaborar con otros docentes en la gestión diaria del aula.</p>\n<p style=\"text-align: justify;\"><strong>1. Curación para el alumnado (Producto Final)</strong>:</p>\n<p style=\"text-align: justify;\">Herramienta: Padlet.</p>\n<p style=\"text-align: justify;\">Objetivo: facilitar al alumnado de mi proyecto \"Eco-Reporteros Digitales\" una selección de fuentes fiables y tutoriales que eviten la distracción y mejoren su autonomía. He incluido recursos visuales y protocolos de resolución de problemas técnicos para reducir la frustración detectada en sesiones previas.</p>\n<p style=\"text-align: justify;\">Enlace: <a href=\"https://padlet.com/javierlacala/muro-de-recursos-eco-reporteros-digitales-7ncdse55g4n9rnca\">https://padlet.com/javierlacala/muro-de-recursos-eco-reporteros-digitales-7ncdse55g4n9rnca</a> </p>\n<p style=\"text-align: justify;\"><strong>2. Curación para el profesorado (Gestión de aula):</strong></p>\n<p style=\"text-align: justify;\">Herramienta: Symbaloo.</p>\n<p style=\"text-align: justify;\">Objetivo: compartir las herramientas que utilizo en mi día a día para la gestión administrativa, la creación de recursos y la evaluación formativa. Busco ofrecer una selección organizada que ayude a otros compañeros a integrar la tecnología de forma coherente.</p>\n<p style=\"text-align: justify;\">Enlace: <a href=\"https://www.symbaloo.com/shared/AAAABFNQHbUAA41_l11adw==\">https://www.symbaloo.com/shared/AAAABFNQHbUAA41_l11adw==</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movj7pza-n1e0bhlyl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>El producto final</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movj7pza-n1e0bhlyl</odePageId>
+      <odeBlockId>block-1778015141941-q598baao3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movj7pza-n1e0bhlyl</odePageId>
+          <odeBlockId>block-1778015141941-q598baao3</odeBlockId>
+          <odeIdeviceId>idevice-1778015141938-o9jfd22ge</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">🌍 <strong>¡Vuestro Desafío Final: La Guía del Eco-Reportero!</strong><br />¡Enhorabuena, equipo! Habéis investigado muchísimo sobre el cambio climático y ahora ha llegado el momento de contarle al mundo vuestros hallazgos. Vuestra misión es crear una <strong>Guía Digital Interactiva</strong> para ayudar a proteger nuestro planeta.</p>
+<p style="text-align: justify;">Para que el trabajo sea profesional y divertido, vamos a utilizar dos "superherramientas" digitales:</p>
+<p style="text-align: justify;"><strong>1. Nuestro Muro de Ideas: Padlet </strong>📌</p>
+<p style="text-align: justify;">Antes de diseñar, hay que organizar. Usaremos <strong>Padlet </strong>como nuestro tablero de redacción.</p>
+<p style="text-align: justify;"><strong>¿Qué haremos aquí?</strong> Subiremos las noticias, fotos y datos que hayamos encontrado.</p>
+<p style="text-align: justify;"><strong>¿Para qué sirve?</strong> Para que vuestro tutor/a y el resto del grupo podamos revisar que la información es real y segura antes de ponerla en la guía. ¡Así nada de errores!</p>
+<p style="text-align: justify;"><strong>2. El Diseño Estrella: Canva para Educación </strong>🎨<br />Una vez que las ideas estén claras en Padlet, pasaremos a <strong>Canva </strong>para dar vida a vuestra guía.</p>
+<p style="text-align: justify;"><strong>¿Qué podéis crear?</strong> Una presentación interactiva o un póster multimedia</p>
+<p style="text-align: justify;"><strong>¡Creatividad sin límites!</strong> Podéis añadir vídeos, audios vuestros explicando noticias e imágenes bonitas (y legales). Lo mejor es que, como se guarda solo en la nube, ¡no perderéis nunca vuestro trabajo!<br /> <br />🤝 <strong>Trabajo en Equipo y Roles</strong></p>
+<p style="text-align: justify;">Recordad que para que esta guía sea un éxito, cada uno tiene una misión especial según su rol:</p>
+<ul>
+<li style="text-align: justify;"><strong>Coordinador/a:</strong> Se encarga de que todos participen y sigamos los pasos.</li>
+<li style="text-align: justify;"><strong>Secretario/a:</strong> Revisa que los textos en Padlet y Canva no tengan faltas.</li>
+<li style="text-align: justify;"><strong>Portavoz:</strong> Será quien presente vuestra guía interactiva a la clase.</li>
+<li style="text-align: justify;"><strong>Responsable TIC:</strong> Ayudará al grupo con las herramientas y a asegurar que usamos imágenes libres.</li>
+</ul>
+<p style="text-align: justify;"><strong>¡Recuerda!</strong> No importa si la conexión a internet a veces va lenta; estas herramientas están preparadas para que podáis trabajar desde cualquier dispositivo sin miedo. ¡A por ello, Eco-Reporteros!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778015141938-o9jfd22ge","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">🌍 <strong>¡Vuestro Desafío Final: La Guía del Eco-Reportero!</strong><br />¡Enhorabuena, equipo! Habéis investigado muchísimo sobre el cambio climático y ahora ha llegado el momento de contarle al mundo vuestros hallazgos. Vuestra misión es crear una <strong>Guía Digital Interactiva</strong> para ayudar a proteger nuestro planeta.</p>\n<p style=\"text-align: justify;\">Para que el trabajo sea profesional y divertido, vamos a utilizar dos \"superherramientas\" digitales:</p>\n<p style=\"text-align: justify;\"><strong>1. Nuestro Muro de Ideas: Padlet </strong>📌</p>\n<p style=\"text-align: justify;\">Antes de diseñar, hay que organizar. Usaremos <strong>Padlet </strong>como nuestro tablero de redacción.</p>\n<p style=\"text-align: justify;\"><strong>¿Qué haremos aquí?</strong> Subiremos las noticias, fotos y datos que hayamos encontrado.</p>\n<p style=\"text-align: justify;\"><strong>¿Para qué sirve?</strong> Para que vuestro tutor/a y el resto del grupo podamos revisar que la información es real y segura antes de ponerla en la guía. ¡Así nada de errores!</p>\n<p style=\"text-align: justify;\"><strong>2. El Diseño Estrella: Canva para Educación </strong>🎨<br />Una vez que las ideas estén claras en Padlet, pasaremos a <strong>Canva </strong>para dar vida a vuestra guía.</p>\n<p style=\"text-align: justify;\"><strong>¿Qué podéis crear?</strong> Una presentación interactiva o un póster multimedia</p>\n<p style=\"text-align: justify;\"><strong>¡Creatividad sin límites!</strong> Podéis añadir vídeos, audios vuestros explicando noticias e imágenes bonitas (y legales). Lo mejor es que, como se guarda solo en la nube, ¡no perderéis nunca vuestro trabajo!<br /> <br />🤝 <strong>Trabajo en Equipo y Roles</strong></p>\n<p style=\"text-align: justify;\">Recordad que para que esta guía sea un éxito, cada uno tiene una misión especial según su rol:</p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Coordinador/a:</strong> Se encarga de que todos participen y sigamos los pasos.</li>\n<li style=\"text-align: justify;\"><strong>Secretario/a:</strong> Revisa que los textos en Padlet y Canva no tengan faltas.</li>\n<li style=\"text-align: justify;\"><strong>Portavoz:</strong> Será quien presente vuestra guía interactiva a la clase.</li>\n<li style=\"text-align: justify;\"><strong>Responsable TIC:</strong> Ayudará al grupo con las herramientas y a asegurar que usamos imágenes libres.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>¡Recuerda!</strong> No importa si la conexión a internet a veces va lenta; estas herramientas están preparadas para que podáis trabajar desde cualquier dispositivo sin miedo. ¡A por ello, Eco-Reporteros!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movj7pza-f9hjiw63j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movj7pza-f9hjiw63j</odePageId>
+      <odeBlockId>block-1778015525238-mct2r481q</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movj7pza-f9hjiw63j</odePageId>
+          <odeBlockId>block-1778015525238-mct2r481q</odeBlockId>
+          <odeIdeviceId>idevice-1778015525236-va9zzemiu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>1. Introducción y estrategia de evaluación</strong></p>
+<p style="text-align: justify;">Para este proyecto de 5º de Primaria, se propone una evaluación continua y formativa basada en la triangulación de datos. Utilizaremos tres fuentes: la observación docente, la valoración de los compañeros y el análisis del producto final, automatizando la recogida de datos mediante herramientas digitales del centro (Google Workspace/Canva).</p>
+<p style="text-align: justify;"><strong>2. Instrumentos de evaluación</strong></p>
+<p style="text-align: justify;"><strong>Instrumento 1: Rúbrica Analítica Digital (Producto Final en Canva)</strong></p>
+<ul>
+<li><strong>Qué evalúa</strong>: el producto final (Guía Digital Interactiva), centrándose en el Criterio de Evaluación 1.1.a (Uso seguro y creativo de recursos digitales).</li>
+<li><strong>Momento</strong>: evaluación sumativa y formativa al finalizar las sesiones 6 y 7.</li>
+<li><strong>Variables y Tratamiento de Datos:</strong><strong></strong></li>
+</ul>
+<ul style="list-style-type: circle;">
+<li style="text-align: justify;"><strong>Variables</strong>: nivel de integración multimedia, respeto a licencias CC, calidad del contenido climático y originalidad.</li>
+<li style="text-align: justify;"><strong>Tratamiento</strong>: los datos se recogen a través de una rúbrica integrada en Google Classroom. Esto permite automatizar la devolución de feedback, enviando al alumnado comentarios específicos sobre sus puntos fuertes y áreas de mejora de forma inmediata.</li>
+</ul>
+<p><img src="{{context_path}}/content/resources/Rúbrica.png" title="Rúbrica" width="620" height="908" alt="Rúbrica" /></p>
+<p style="text-align: justify;"><strong>Instrumento 2: Diana de Evaluación Cooperativa (Coevaluación)</strong></p>
+<ul>
+<li style="text-align: justify;"><strong>Qué evalúa</strong>: el desempeño de los roles (Coordinador, Secretario, Portavoz, Responsable TIC) y la netiqueta.</li>
+<li style="text-align: justify;"><strong>Momento</strong>: al finalizar la Sesión 4 (Redacción) y la Sesión 8 (Gala).</li>
+<li style="text-align: justify;"><strong>Funcionamiento</strong>: cada grupo completa una diana digital (creada en Genially o similar) donde valoran del 1 al 4 aspectos como: "¿Ha cumplido el Responsable TIC con el protocolo de resolución de problemas?" o "¿Hemos respetado los turnos de palabra en Teams/Classroom?".</li>
+<li style="text-align: justify;"><strong>Variables y análisis</strong>: si detectamos una variable de "baja implicación" en un rol específico, los datos nos sirven para reajustar los agrupamientos en futuros proyectos o realizar una intervención directa de refuerzo en la competencia ciudadana digital.</li>
+</ul>
+<p><img src="{{context_path}}/content/resources/145f3a91-ae05-cbd0-ac99-22c214765b01.png" title="Diana de evaluación" width="1149" height="848" alt="Diana de evaluación" /></p>
+<p style="text-align: justify;"><strong>Instrumento 3: Cuestionario de Autoevaluación y Reflexión (Google Forms)</strong></p>
+<ul>
+<li style="text-align: justify;"><strong>Qué evalúa</strong>: el proceso de aprendizaje, la metacognición y la resolución de problemas técnicos (basado en el Protocolo de Incidencias de la Sesión 4).</li>
+<li style="text-align: justify;"><strong>Momento</strong>: sesión 8 (Cierre).</li>
+<li style="text-align: justify;"><strong>Análisis crítico</strong>: más allá de la nota, los datos recogidos en la hoja de cálculo vinculada nos permiten analizar gráficamente si el alumnado se siente autónomo resolviendo fallos técnicos o si aún dependen del docente. Esto valida si la estrategia de "Protocolos de Autonomía" ha sido efectiva.</li>
+</ul>
+<p style="text-align: justify;"><strong>3. Análisis de Variables y Validación de Datos</strong></p>
+<p style="text-align: justify;">Para garantizar la fiabilidad del proceso, aplicaremos los siguientes procedimientos digitales:</p>
+<ol>
+<li style="text-align: justify;"><strong>Automatización</strong>: los resultados del cuestionario (Forms) y la rúbrica (Classroom) se consolidan en un Panel de Control (Dashboard) en Google Sheets. Esto permite visualizar el progreso de cada alumno/a en tiempo real.</li>
+<li style="text-align: justify;"><strong>Gestión de variables</strong>: en caso de inestabilidad de la red, si un alumno no puede completar el cuestionario digital, se dispone de la versión analógica para posterior volcado manual, garantizando que el almacenamiento de datos sea íntegro.</li>
+<li style="text-align: justify;"><strong>Feedback y mejora</strong>: los datos no solo califican; sirven para que el docente ajuste la dificultad de las fuentes de información en el Padlet de Curación si se observa que el alumnado ha tenido dificultades críticas en la filtración.</li>
+</ol>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778015525236-va9zzemiu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>1. Introducción y estrategia de evaluación</strong></p>\n<p style=\"text-align: justify;\">Para este proyecto de 5º de Primaria, se propone una evaluación continua y formativa basada en la triangulación de datos. Utilizaremos tres fuentes: la observación docente, la valoración de los compañeros y el análisis del producto final, automatizando la recogida de datos mediante herramientas digitales del centro (Google Workspace/Canva).</p>\n<p style=\"text-align: justify;\"><strong>2. Instrumentos de evaluación</strong></p>\n<p style=\"text-align: justify;\"><strong>Instrumento 1: Rúbrica Analítica Digital (Producto Final en Canva)</strong></p>\n<ul>\n<li><strong>Qué evalúa</strong>: el producto final (Guía Digital Interactiva), centrándose en el Criterio de Evaluación 1.1.a (Uso seguro y creativo de recursos digitales).</li>\n<li><strong>Momento</strong>: evaluación sumativa y formativa al finalizar las sesiones 6 y 7.</li>\n<li><strong>Variables y Tratamiento de Datos:</strong><strong></strong></li>\n</ul>\n<ul style=\"list-style-type: circle;\">\n<li style=\"text-align: justify;\"><strong>Variables</strong>: nivel de integración multimedia, respeto a licencias CC, calidad del contenido climático y originalidad.</li>\n<li style=\"text-align: justify;\"><strong>Tratamiento</strong>: los datos se recogen a través de una rúbrica integrada en Google Classroom. Esto permite automatizar la devolución de feedback, enviando al alumnado comentarios específicos sobre sus puntos fuertes y áreas de mejora de forma inmediata.</li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/Rúbrica.png\" title=\"Rúbrica\" width=\"620\" height=\"908\" alt=\"Rúbrica\" /></p>\n<p style=\"text-align: justify;\"><strong>Instrumento 2: Diana de Evaluación Cooperativa (Coevaluación)</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Qué evalúa</strong>: el desempeño de los roles (Coordinador, Secretario, Portavoz, Responsable TIC) y la netiqueta.</li>\n<li style=\"text-align: justify;\"><strong>Momento</strong>: al finalizar la Sesión 4 (Redacción) y la Sesión 8 (Gala).</li>\n<li style=\"text-align: justify;\"><strong>Funcionamiento</strong>: cada grupo completa una diana digital (creada en Genially o similar) donde valoran del 1 al 4 aspectos como: \"¿Ha cumplido el Responsable TIC con el protocolo de resolución de problemas?\" o \"¿Hemos respetado los turnos de palabra en Teams/Classroom?\".</li>\n<li style=\"text-align: justify;\"><strong>Variables y análisis</strong>: si detectamos una variable de \"baja implicación\" en un rol específico, los datos nos sirven para reajustar los agrupamientos en futuros proyectos o realizar una intervención directa de refuerzo en la competencia ciudadana digital.</li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/145f3a91-ae05-cbd0-ac99-22c214765b01.png\" title=\"Diana de evaluación\" width=\"1149\" height=\"848\" alt=\"Diana de evaluación\" /></p>\n<p style=\"text-align: justify;\"><strong>Instrumento 3: Cuestionario de Autoevaluación y Reflexión (Google Forms)</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Qué evalúa</strong>: el proceso de aprendizaje, la metacognición y la resolución de problemas técnicos (basado en el Protocolo de Incidencias de la Sesión 4).</li>\n<li style=\"text-align: justify;\"><strong>Momento</strong>: sesión 8 (Cierre).</li>\n<li style=\"text-align: justify;\"><strong>Análisis crítico</strong>: más allá de la nota, los datos recogidos en la hoja de cálculo vinculada nos permiten analizar gráficamente si el alumnado se siente autónomo resolviendo fallos técnicos o si aún dependen del docente. Esto valida si la estrategia de \"Protocolos de Autonomía\" ha sido efectiva.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>3. Análisis de Variables y Validación de Datos</strong></p>\n<p style=\"text-align: justify;\">Para garantizar la fiabilidad del proceso, aplicaremos los siguientes procedimientos digitales:</p>\n<ol>\n<li style=\"text-align: justify;\"><strong>Automatización</strong>: los resultados del cuestionario (Forms) y la rúbrica (Classroom) se consolidan en un Panel de Control (Dashboard) en Google Sheets. Esto permite visualizar el progreso de cada alumno/a en tiempo real.</li>\n<li style=\"text-align: justify;\"><strong>Gestión de variables</strong>: en caso de inestabilidad de la red, si un alumno no puede completar el cuestionario digital, se dispone de la versión analógica para posterior volcado manual, garantizando que el almacenamiento de datos sea íntegro.</li>\n<li style=\"text-align: justify;\"><strong>Feedback y mejora</strong>: los datos no solo califican; sirven para que el docente ajuste la dificultad de las fuentes de información en el Padlet de Curación si se observa que el alumnado ha tenido dificultades críticas en la filtración.</li>\n</ol>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movj7pza-zew0m0pxs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y Descarga</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y Descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y Descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movj7pza-zew0m0pxs</odePageId>
+      <odeBlockId>block-1778019341117-fzwtgynku</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movj7pza-zew0m0pxs</odePageId>
+          <odeBlockId>block-1778019341117-fzwtgynku</odeBlockId>
+          <odeIdeviceId>idevice-1778019341115-h6s8zzp0i</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><p><br></p>
+<table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Eco-Reporteros Digitales: El Desafío del Cambio Climático</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de Aprendizaje para 5º de Educación Primaria basada en ABP sobre clima y medio ambiente.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Javier Cruces Fernández</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+<p style="text-align: center;">Haz clic aquí para descargar el archivo editable de este proyecto y usarlo en tu clase.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
